@@ -12,7 +12,7 @@ We understand that Bitcoin can transform the way transactions are made and how f
 
 ## 👥 Our Team
 
-- [Pedro](https://twitter.com/pvitalg)  - Founder of Bitcoin Dominicana
+- [Pedro Vital](https://twitter.com/pvitalg)  - Founder of Bitcoin Dominicana
 
 <img src="https://github.com/CarpeDiemCuba/BitcoinDominicanaPictures/blob/main/pedrovital.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
@@ -32,7 +32,7 @@ We understand that Bitcoin can transform the way transactions are made and how f
 - **Email:** [info@bitcoindominicana.com]( info@bitcoindominicana.com)
 - **WhatsApp:** [+18093838040](wa.me/+18093838040)
 - **Telegram:** [@pvitalg](https://t.me/@pvitalg)
-- **Phone:** [+18093838040]
+- **Phone:** +18093838040
 
 ## 💰 Official Donation Link
 Support our activities by donating through:
