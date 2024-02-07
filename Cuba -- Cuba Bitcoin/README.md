@@ -33,7 +33,12 @@ We are a Bitcoin Only community focused on education and debate about Bitcoin on
   - The educational experience of My First Bitcoin in Cuba
   - We discuss the scalability of Bitcoin specifically sidechains like, RSK, Liquid and Lightning Network as the most advocated scalability solution in the community
 
-- The 3rd edition of the course began My First Bitcoin in Cuba. For the first time it will be taught in two provinces at the same time: Havana and Sancti Spíritus. 20 students were registered in Havana and 10 students in Sancti Spiritus. The final test will be on March 16. The graduation of this edition will be on March 23.
+- The 3rd edition of the course began My First Bitcoin in Cuba. For the first time it will be taught in two provinces at the same time: Havana and Sancti Spíritus. 20 students were registered in Havana and 10 students in Sancti Spiritus. The final test will be on March 16. The graduation of this edition will be on March 23. [Noticia](https://www.criptonoticias.com/educacion/cuba-bitcoin-avanza-ensenanza-dinero-libre-lahabana-sanctispiritus/)
+
+- The team of Cuba_Bitcoin won the vote My First Bitcoin to the node with the highest PoW made in 2023. This earned us a prize of 1000 USD in BTC:
+  - [X Cuba_BTC](https://twitter.com/Cuba_BTC/status/1754909166408270208)
+  - [X My First Bitcoin](https://twitter.com/MyfirstBitcoin_/status/1753071793064017998)
+  - [Criptonoticias](https://www.criptonoticias.com/comunidad/cuba-libre-bitcoin-libertad-solidaridad-educacion-donacion/)
 
 - Saturday February 17th we will hold an open class on Lightning Network. We will explain this Bitcoin scalability solution by doing practical activities for a better understanding of it and we will teach how to use the lnp2p telegram bot as a privacy tool that allows us to buy Bitcoin without KYC.
 
