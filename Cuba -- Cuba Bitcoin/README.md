@@ -27,9 +27,7 @@ We are a Bitcoin Only community focused on education and debate about Bitcoin on
 
 ## 🏆 Recent Achievements In 2024:
 
-- We did the 4th in-person meetup was held in Cuba on 28th January, with the presence of a guest from BerlinBitDevs.
-
-It was talked about:
+- We did the 4th in-person meetup was held in Cuba on 28th January, with the presence of a guest from BerlinBitDevs. It was talked about:
   - MostroP2P for bitcoin p2p without KYC
   - Resources at http://bitcoindevs.xyz created by ChaincodeLabs
   - The educational experience of My First Bitcoin in Cuba
