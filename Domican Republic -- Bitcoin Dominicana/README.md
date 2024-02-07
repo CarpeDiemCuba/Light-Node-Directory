@@ -1,5 +1,5 @@
 # 🏷️ [Bitcoin Dominicana]
-<img src="https://github.com/CarpeDiemCuba/Cuba-Bitcoin-Images/blob/main/logo%20cuba%20bitcoin.png" width="300"> <!-- 1 picture maximum -->
+<img src="https://github.com/CarpeDiemCuba/BitcoinDominicanaPictures/blob/main/diplomado-BTC-DOM-cuadrado-1.png" width="300"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Dominican Republic
@@ -14,7 +14,7 @@ We understand that Bitcoin can transform the way transactions are made and how f
 
 - [Pedro](https://twitter.com/pvitalg)  - Founder of Bitcoin Dominicana
 
-<img src="https://github.com/CarpeDiemCuba/Cuba-Bitcoin-Images/blob/main/admins%20cuba%20bitcoin.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/CarpeDiemCuba/BitcoinDominicanaPictures/blob/main/pedrovital.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** 
@@ -26,12 +26,14 @@ We understand that Bitcoin can transform the way transactions are made and how f
 
 
 ## 📞 Contact Information
-- **Email:** [ info@bitcoindominicana.com]( info@bitcoindominicana.com)
+- **Website:** [https://bitcoindominicana.com/](https://bitcoindominicana.com/)
 - **X:** [https://twitter.com/Bitcoin809](https://twitter.com/Bitcoin809)
 - **Instagram:** [https://www.instagram.com/bitcoindominicana/](https://www.instagram.com/bitcoindominicana/)
-- **Telegram:** []()
+- **Email:** [info@bitcoindominicana.com]( info@bitcoindominicana.com)
+- **WhatsApp:** [+18093838040](wa.me/+18093838040)
+- **Telegram:** [@pvitalg](https://t.me/@pvitalg)
+- **Phone:** [+18093838040]
 
 ## 💰 Official Donation Link
 Support our activities by donating through:
-  - miprimerbitcoincuba@getalby.com
-  - bitcoincuba@getalby.com
+  - [Geyser Fund](https://geyser.fund/project/bitcoindominicana)
